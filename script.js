@@ -34,7 +34,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: " Prefetre jogar como Central ou Levantdor ?",
+        enunciado: " Prefere jogar como Central ou Levantdor ?",
         alternativas: [
             {
                 texto: "como Central, pois brilho mais que os outros jogadores e consigo pular mais alto e dar meu melhor.",
